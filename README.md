@@ -10,9 +10,13 @@ Like most things in life you need some preperation
 
 > [!NOTE]
 > On Discord, go to Edit Server and click on Integrations, from here create a Webhook and copy that URL so you can get that loot
+> 
 > Install [Npcap](https://npcap.com/#download) for the PC to sniff traffic
+>
 > Install Curl for the Windows cmd (most likely already installed especially if Git is installed) to send data
+>
 > Have a compiler for the C file, I used Microsofts compiler in VS Code
+>
 > Put your Webhook URL ***in Line 126*** where it says to do so
 
 Now you are all set, you should have an exe file with your Webhook inserted & Npcap and Curl installed, now go get those PCAPS
